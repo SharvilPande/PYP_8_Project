@@ -1,0 +1,239 @@
+marquee {
+    background-color: rgb(75, 73, 73);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.hrs {
+    height: 10px;
+    background-color: rgb(0, 0, 0);
+    width: 250px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    overflow-x: hidden;
+    background-image: linear-gradient(to bottom right, #c72323 25%, #000000 75%);
+}
+
+.contact_1 {
+    margin-top: 30px;
+}
+
+.titles {   
+    font-family: "archivo-black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 32pt;
+}
+
+.campus_MainDiv img {
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    border-radius: 10px;
+}
+
+.campus_MainDiv {
+    background-color: forestgreen;
+}
+
+p {
+    color: black;
+    font-size: 17px;
+}
+
+.debate_header {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+#arrow_down1 {
+    float: right;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.sport_header {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.music_header {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.hr_new {
+    width: 100%;
+    height: 3px;
+    background-color: crimson;
+}
+
+.new_li p {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.new_li img {
+    border-radius: 25px;
+    height: 300px;
+    width: 600px;
+}
+
+.new_li_p1 {
+    margin-top: 20px;
+}
+
+.new_li_p2 {
+    margin-top: 20px;
+}
+
+.img {
+    width: 250px;
+    height: 300px;
+}
+
+.p_modal {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.img_modal {
+    width: 100%;
+    height: 200px;
+}
+   
+nav{
+    position: fixed;
+    width: 100%
+}
+
+#myCarousel {
+    background-color: rgb(0, 0, 0);
+}
+
+.color{
+    color: whitesmoke;
+}
+
+.campus_MainDiv {
+    margin-left: 200px;
+    width: 3000px;
+}
+
+#crop {
+    width: 500px;
+}
+
+.carousel {
+    margin-top: 30px;
+}
+
+#dot_points {
+    float: left ;
+}
+
+#logo{
+        width: 65px;
+        height: 65px;
+        border-radius: 50%;
+        margin-left: 600px;
+    }
+
+.one {
+  width: 900px;
+  height: 500px;
+}
+
+.first {
+    width: 900px;
+    margin-top: -25px;
+}
+
+#group {
+    margin-top: -50px;
+}
+
+.prices {
+    opacity: 0.6;
+    transition: transform .3s;
+}
+
+.prices:hover {opacity: 1}
+
+.prices:hover {
+    transform: scale(1.25);
+}
+
+.text-center {
+    color: white;
+}
+
+#contact_img {
+    border-radius: 50%;
+    width: 1000px;
+    height: 500px;
+}
+
+.text {
+    color: rgb(226, 214, 46);
+}
+
+.fulls {
+    width: 100%;
+}
+
+.halves {
+     width: 49%;
+}
+
+.text-light {
+    color: white;
+}
+
+#last {
+    width: 100%;
+}
+
+.col {
+    color: red;
+    font-weight: bold;
+}
+
+.Or {
+    color: white;
+}
+
+#us {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
